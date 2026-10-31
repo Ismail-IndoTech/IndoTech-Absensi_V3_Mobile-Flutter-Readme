@@ -173,6 +173,11 @@ Gradle Firebase config BUILD SUCCESSFUL.**
 
 ---
 
+## Access & License
+
+This repository is **my own work**, **Mochamad Ismail Soleh** (Ismail-IndoTech), and is specifically licensed under the **[MIT License](LICENSE)**.
+
+To obtain access to the **private source repository** for this project, contact me as the **Repository Creator** via WhatsApp using the number registered to my DANA account: **08121600058** — [wa.me/628121600058](https://wa.me/628121600058). Access is granted by agreement.
 ## 💖 Contribution & Donation
 
 If this application makes IT operations, DevOps, and server management easier for your company or personal project, support its development by becoming a contributor or a **Special Donor**.

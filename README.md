@@ -173,6 +173,11 @@ Gradle Firebase config BUILD SUCCESSFUL.**
 
 ---
 
+## Akses & Lisensi
+
+Repositori ini adalah **karya saya sendiri**, **Mochamad Ismail Soleh** (Ismail-IndoTech), dan dilisensikan secara khusus di bawah **[MIT License](LICENSE)**.
+
+Untuk memperoleh akses ke **repositori sumber (privat)** dari proyek ini, silakan hubungi saya sebagai **Creator Repo** melalui WhatsApp di nomor yang terdaftar pada akun DANA saya: **08121600058** — [wa.me/628121600058](https://wa.me/628121600058). Akses diberikan sesuai kesepakatan.
 ## 💖 Kontribusi & Donasi
 
 Jika aplikasi ini mempermudah operasional IT, DevOps, dan pengelolaan server di perusahaan atau proyek pribadi Anda, dukung pengembangannya dengan menjadi kontributor atau **Donatur Spesial**.  
